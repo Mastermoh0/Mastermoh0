@@ -13,10 +13,8 @@ Hi, I’m Muhammad Al-Amin Ibrahim, an IT student at Middlesex University, worki
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mastermoh0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mastermoh0&theme=tokyonight&hide_border=false" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mastermoh0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mastermoh0&theme=tokyonight&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mastermoh0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </td>
@@ -27,6 +25,10 @@ Hi, I’m Muhammad Al-Amin Ibrahim, an IT student at Middlesex University, worki
 </td>
 </tr>
 </table>
+
+<br/>
+<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mastermoh0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
